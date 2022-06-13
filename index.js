@@ -20,13 +20,15 @@ const scrollRootElement = (rootEle, top) => {
 };
 
 const MysqlDocSelct = (cssText) => {
-  let path = location.pathname.split("/");
-  let dom = document.querySelector("a[href='" + path[path.length - 1] + "']");
-  dom.style.cssText = cssText;
-  scrollRootElement(
-    document.querySelector("#docs-sidebar-toc"),
-    dom.offsetTop - 50
-  );
+  setTimeout(() => {
+    let path = location.pathname.split("/");
+    let dom = document.querySelector("a[href='" + path[path.length - 1] + "']");
+    dom.style.cssText = cssText;
+    scrollRootElement(
+      document.querySelector("#docs-sidebar-toc"),
+      dom.offsetTop - 50
+    );
+  });
 };
 
 const MDnDocSelect = () => {
