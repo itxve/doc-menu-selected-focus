@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         文档选中美化
+// @name         程序员文档选中美化
 // @namespace    http://tampermonkey.net/
-// @version      2.0.2
+// @version      2.0.3
 // @description  MDN/Mysql 文档选中美化
 // @author       itxve
+// @repo         https://github.com/itxve/doc-menu-selected-focus
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
