@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         程序员文档选中美化
 // @namespace    http://tampermonkey.net/
-// @version      2.0.3
+// @version      2.0.4
 // @description  MDN/Mysql 文档选中美化
 // @author       itxve
 // @repo         https://github.com/itxve/doc-menu-selected-focus
