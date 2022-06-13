@@ -1,2 +1,9 @@
-# doc-menu-selected-focus
-选中文档菜单高亮
+###  选中文档菜单高亮
+```
+每次浏览MDN这类文档都找不到自己的位置
+```
+
+### Feature
+- MDN
+- MYSQL
+- ...
