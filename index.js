@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         程序员文档选中美化
 // @namespace    https://greasyfork.org/zh-CN/scripts/446417-%E7%A8%8B%E5%BA%8F%E5%91%98%E6%96%87%E6%A1%A3%E9%80%89%E4%B8%AD%E7%BE%8E%E5%8C%96
-// @version      2.0.6
+// @version      2.0.7
 // @description  MDN/Mysql 文档选中美化
 // @author       itxve
 // @repo         https://github.com/itxve/doc-menu-selected-focus
