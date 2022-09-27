@@ -7,6 +7,7 @@
 // @repo         https://github.com/itxve/doc-menu-selected-focus
 // @match        *://developer.mozilla.org/*
 // @match        *://dev.mysql.com/*
+// @match        *://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @license      MIT
