@@ -5,8 +5,8 @@
 // @description  MDN/Mysql 文档选中美化
 // @author       itxve
 // @repo         https://github.com/itxve/doc-menu-selected-focus
-// @match        http(s)://*/*
-// @match        http://*/*
+// @match        *://developer.mozilla.org/*
+// @match        *://dev.mysql.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @license      MIT
